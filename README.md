@@ -14,4 +14,4 @@ Since this is done in an linux environment , familiarity with linux is recommend
 
 1.sudo apt-get update -y
 
-2.sudo apt-get update -y
+2.sudo apt-get install -y ngspice
