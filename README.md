@@ -17,9 +17,11 @@ Installation in ubuntu:
 <br/>2.sudo apt-get install ngspice
 
 # GETTING STARTED:
-
 <br/>Type the following in terminal:
 <br/>cd
 <br/> <Now you are in the home directory.>
 <br/>Create a separate folder for circuits and inside it create a separate forder for sub circuit files and library files.
+<br/>mkdir circuits
+<br/>cd circuits
+<br/>mkdir lib sub
   
