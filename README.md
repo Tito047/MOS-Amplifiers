@@ -13,5 +13,5 @@ Since this is done in an linux environment , familiarity with linux is recommend
 # NG SPICE installation:
 
 Installation in ubuntu:
-1.sudo apt-get update
+<br/>1.sudo apt-get update
 <br/>2.sudo apt-get install ngspice
